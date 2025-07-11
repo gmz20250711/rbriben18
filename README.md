@@ -24,4 +24,4 @@
 除了观看影片，很多平台还提供了下载功能，用户可以在没有网络的情况下继续观看自己喜欢的影片。平台通常提供不同分辨率的下载选项，以满足不同设备的需求。下载时，确保使用官方提供的链接，避免恶意文件的下载。  
 
  
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/gmz20250711/rbriben18 )</span>
